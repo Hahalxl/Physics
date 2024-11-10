@@ -1,7 +1,6 @@
 import pygame as pg
 import math
 
-from pygame.examples.eventlist import virtual_y
 
 pg.init()
 info = pg.display.Info()
